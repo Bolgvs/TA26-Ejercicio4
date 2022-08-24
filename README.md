@@ -2,29 +2,30 @@
 
 enlace de Heroku: https://ta26-4.herokuapp.com/  
 
-Cajeros  
-GET /api/cajeros POST /api/cajeros  
-GET /api/cajeros/{codigo}  
-PUT /api/cajeros/{codigo}  
-DELETE /api/cajeros/{codigo}  
+Equipos 
+GET /api/equipos   
+POST /api/equipos    
+GET /api/equipos/{codigo}  
+PUT /api/equipos/{codigo}  
+DELETE /api/equipos/{codigo}  
 
-Maquinas Registradoras  
-GET /api/maquinasRegistradoras  
-POST /api/maquinasRegistradoras  
-GET /api/maquinasRegistradoras/{codigo}   
-PUT /api/maquinasRegistradoras/{codigo}  
-DELETE /api/maquinasRegistradoras/{codigo}  
+Facultad
+GET /api/facultad  
+POST /api/facultad  
+GET /api/facultad/{codigo}   
+PUT /api/facultad/{codigo}  
+DELETE /api/facultad/{codigo}  
 
-Productos  
-GET /api/productos  
-POST /api/productos  
-GET /api/productos/{codigo}  
-PUT /api/productos/{codigo}  
-DELETE /api/productos/{codigo}  
+Investigadores  
+GET /api/investigadores  
+POST /api/investigadores  
+GET /api/investigadores/{codigo}  
+PUT /api/investigadores/{codigo}  
+DELETE /api/investigadores/{codigo}  
 
-Venta  
-GET /api/venta  
-POST /api/venta  
-GET /api/venta/{codigo}  
-PUT /api/venta/{codigo}  
-DELETE /api/venta/{codigo}  
+Reserva  
+GET /api/reserva  
+POST /api/reserva  
+GET /api/reserva/{codigo}  
+PUT /api/reserva/{codigo}  
+DELETE /api/reserva/{codigo}  
