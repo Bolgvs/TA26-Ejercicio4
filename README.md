@@ -1,6 +1,6 @@
 # TA26-Ejercicio4
 
-enlace de Heroku: https://ta26-4.herokuapp.com/login (tenia la dependencia de spring security porque me había confundido, la quité, y me sigue saliendo en las 3 primeras tareas lo del login, no sé porqué pasa, he pedido ayuda y tampoco han sabido porqué era, así que te dejo esto)
+enlace de Heroku: https://ta26-4.herokuapp.com/  
 
 Cajeros  
 GET /api/cajeros POST /api/cajeros  
